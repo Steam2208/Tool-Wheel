@@ -79,15 +79,7 @@ A lightweight NeoForge mod for Minecraft 1.21.1 inspired by the Satisfactory too
 
 ## Building from Source
 
-Requirements: Java 21 JDK.
-
-Run `build.bat` on Windows or execute:
-
-```powershell
-powershell -ExecutionPolicy Bypass -File build.ps1
-```
-
-The compiled `.jar` will be placed in your Minecraft mods folder.
+Requirements: Java 21 JDK and NeoForge 21.1.256.
 
 ## License
 
