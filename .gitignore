@@ -4,3 +4,4 @@ bin/
 .idea/
 *.log
 __pycache__/
+icons/
