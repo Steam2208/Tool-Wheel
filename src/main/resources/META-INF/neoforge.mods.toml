@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "satisfactory_wheel"
+version = "1.0.0"
+displayName = "Satisfactory Tool Wheel"
+logoFile = "icon.png"
+description = "A Satisfactory-style radial tool wheel with phantom hand slots that never clutter your inventory."
+
+[[dependencies.satisfactory_wheel]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.satisfactory_wheel]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+

@@ -1,0 +1,8 @@
+{
+  "key.categories.satisfactory_wheel": "Satisfactory Tool Wheel",
+  "key.satisfactory_wheel.open": "Колесо выбора инструментов",
+  "gui.satisfactory_wheel.holster": "Убрать инструмент",
+  "gui.satisfactory_wheel.empty_config": "Инструменты не настроены в satisfactory_wheel.json",
+  "command.satisfactory_wheel.reloaded": "Конфигурация Satisfactory Tool Wheel перезагружена."
+}
+

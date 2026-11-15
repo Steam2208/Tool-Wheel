@@ -1,0 +1,8 @@
+{
+  "key.categories.satisfactory_wheel": "Satisfactory Tool Wheel",
+  "key.satisfactory_wheel.open": "Open Tool Wheel",
+  "gui.satisfactory_wheel.holster": "Holster / Unequip",
+  "gui.satisfactory_wheel.empty_config": "No tools configured in satisfactory_wheel.json",
+  "command.satisfactory_wheel.reloaded": "Satisfactory Tool Wheel config reloaded."
+}
+
